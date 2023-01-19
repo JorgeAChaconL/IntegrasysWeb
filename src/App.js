@@ -64,7 +64,7 @@ class App extends Component {
         </Container>
       </Navbar>
       <Routes>
-        <Route path="/home" element={<Home />} />
+        <Route exact path="/" element={<Home />} />
       </Routes>
       
     </Router>
