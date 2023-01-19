@@ -1,14 +1,14 @@
-import {
-  BrowserRouter as Router,
-  Route,
-  Routes,
-  NavLink,
-  Link,
-} from "react-router-dom";
-import isologo from "./assets/Corporation/isologoazul.png";
+// import {
+//   BrowserRouter as Router,
+//   Route,
+//   Routes,
+//   NavLink,
+//   Link,
+// } from "react-router-dom";
+// import isologo from "./assets/Corporation/isologoazul.png";
 import React, { Component } from "react";
-import { Container, Nav, Navbar } from "react-bootstrap";
-import Home from "./containers/home/Home";
+// import { Container, Nav, Navbar } from "react-bootstrap";
+// import Home from "./containers/home/Home";
 
 class App extends Component {
   render() {
